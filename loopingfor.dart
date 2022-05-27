@@ -12,7 +12,7 @@ void main() {
 
     if (angka >= 1) {
       angka += 1;
-      print(angka.toString() + (" Jeno"));
+      print(angka.toString() + (" Lee Jeno"));
     }
   }
 }
