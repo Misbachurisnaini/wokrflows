@@ -7,7 +7,7 @@ void main() {
 
     if (angka >= 1) {
       angka += 1;
-      print(angka.toString() + (" Jaemin"));
+      print(angka.toString() + (" Na Jaemin"));
     }
 
     if (angka >= 1) {
